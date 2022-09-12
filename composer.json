@@ -1,5 +1,5 @@
 {
-    "name": "richardjkeys/socialiteproviders-freeagent",
+    "name": "socialiteproviders/freeagent",
     "description": "FreeAgent OAuth2 Provider for Laravel Socialite",
     "license": "MIT",
     "authors": [
